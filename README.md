@@ -1,5 +1,11 @@
 # guest_house_management_system
 
+Team members
+Nithin
+Vivek
+Upendra
+Kaushtubh
+
 *************************************************************************************************************************************
 1)Software requirements : xampp
 2)Install xampp and start apache and mysql servers.
